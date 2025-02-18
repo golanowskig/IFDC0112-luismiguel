@@ -1,0 +1,5 @@
+cars_eligibility_Clean, cars_eligibility_unknown, cars_eligibility_low
+cars_eligibility_Clean, cars_eligibility_unknown, cars_eligibility_low
+1,Clean Alternative Fuel Vehicle Eligible
+2,Eligibility unknown as battery range has not been researched
+3,Not eligible due to low battery range
